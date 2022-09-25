@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Developeryezid
 - 👀 I’m currently studying analysis and software development in the SENA
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in projects
 - 📫 How to reach me ...
 - 📫 learning to program is programming to learn.
 <!---
