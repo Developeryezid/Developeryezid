@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid%20foto%203x4.jpg)
-
+![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid
 
 ## **personal information**
 
@@ -21,9 +21,8 @@ You can click the Preview link to take a look at your changes.
 ### **🌐social networks**
 
 +  Github: https://github.com/Developeryezid
-+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yezid-Perez-99aba7234?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yezid-p%C3%A9rez-pertuz-99aba7234/)
 +  [![Twitter](https://img.shields.io/badge/Twitter-@YezidPerez1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/YezidPerez1)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/yezid-p%C3%A9rez-pertuz-99aba7234/) 
 _____________________________________________________
 ### **💫Professional profile**
 
@@ -55,7 +54,7 @@ const Developeryezid = {
 ### **💻Technology** 
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
   [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)]()
-  
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
  **Languages**
 
@@ -72,9 +71,7 @@ const Developeryezid = {
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 
-
-
-
+[![](https://visitcount.itsvg.in/api?id=Developeryezid&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 
