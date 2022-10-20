@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid%20foto%203x4.jpg)
-![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid
+
 
 ## **personal information**
 
