@@ -6,9 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
  <h1 align="center">Hi👋, I'm Yezid Perez Pertuz</h1>
 
-
-
-![me](https://raw.githubusercontent.com/Developeryezid/Hojadevida/main/yezid%20foto%203x4.jpg)
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
 
