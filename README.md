@@ -42,8 +42,8 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 ```javascript
 const Developeryezid = {
-  code: [Javascript, Markdown, HTML, CSS, Python, Java, Flutter],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Markdown, HTML, CSS, Python, Java, Flutter, Angular, React],
+  architecture: ["microservices", "event-driven", "design system pattern", "POO"],
  
  challenge: "I am doing the #100DaysOfCode challenge software final project for a financial company"
  challenge:  "practicing object oriented programming in DART, PYTHON"
