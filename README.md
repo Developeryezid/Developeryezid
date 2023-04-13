@@ -31,8 +31,11 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 | institucion                      |      Grado      |  finalizacion |
 |--------------------------------- |:---------------:|--------------:|
-| francisco de paula santander     |  Bachiller      | 2014 |
+| francisco de paula santander     |  Bachiller      | 2014          |
 
+| institucion                      |      Grado      |  finalizacion |
+|--------------------------------- |:---------------:|--------------:|
+| SENA           (Estudinte)       |  Tecnologo      |      2024     |
 
 
 
