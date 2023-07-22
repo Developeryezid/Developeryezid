@@ -45,7 +45,7 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 ```javascript
 const Developeryezid = {
-  code: [Javascript, Markdown, HTML, CSS, Python, Java, Flutter, Angular, React],
+  code: [Javascript, Markdown, HTML, CSS, Python, Java, Flutter, Angular, React, TypeScript, Php, Bootstrap,Postgres, Spring],
   architecture: ["microservices", "event-driven", "design system pattern", "POO"],
  
  challenge: "I am doing the #100DaysOfCode challenge software final project for a financial company"
@@ -62,7 +62,7 @@ const Developeryezid = {
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- **Languages**
+ 
 
 + Ingles: A2
 
