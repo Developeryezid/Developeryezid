@@ -35,7 +35,7 @@ Aprendiz en Desarrollo de software, Soy una persona autodidacta,con gran capacid
 
 | institucion                      |      Grado      |  finalizacion |
 |--------------------------------- |:---------------:|--------------:|
-| SENA           (Estudinte)       |  Tecnologo      |      2024     |
+| SENA           (Practicante)       |  Tecnologo      |      2024     |
 
 
 
